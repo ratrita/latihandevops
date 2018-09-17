@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "add file baru" 
+=======
+"lalalaa" 
+>>>>>>> 838c0b0bcc970b0695adb05fa46a26826f1f3102
